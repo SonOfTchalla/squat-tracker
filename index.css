@@ -1,0 +1,47 @@
+body {
+    background-image: url("https://hips.hearstapps.com/hmg-prod/images/sportsman-doing-back-squat-exercise-with-barbell-in-royalty-free-image-1697815139.jpg?crop=0.667xw:1.00xh;0.205xw,0&resize=1200:*");
+    background-size: cover;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    height: 100vh;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 150px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: darkred;
+}
+
+#save-btn {
+    background: darkgreen;
+}
+
+#container{
+    background: #fff;
+    max-width: 50%;
+    margin: auto;
+    padding: 2px;
+    border: 2px dotted beige;
+    border-radius: 10px;
+}
